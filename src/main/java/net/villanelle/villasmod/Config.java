@@ -1,4 +1,4 @@
-package com.villanelle.villasmod;
+package net.villanelle.villasmod;
 
 import java.util.List;
 

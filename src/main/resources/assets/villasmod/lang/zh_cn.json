@@ -1,0 +1,11 @@
+{
+  "item.villasmod.jade": "玉",
+  "item.villasmod.raw_jade": "粗玉",
+
+  "block.villasmod.jade_block": "玉块",
+  "block.villasmod.deepslate_jade_ore": "深层玉矿石",
+
+  "creativetab.villasmod.mod_ingredients_tab": "Villa的原材料",
+  "creativetab.villasmod.mod_natural_blocks_tab": "Villa的自然方块",
+  "creativetab.villasmod.mod_building_blocks_tab": "Villa的建筑方块"
+}

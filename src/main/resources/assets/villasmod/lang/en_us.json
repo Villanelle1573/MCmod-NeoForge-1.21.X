@@ -1,0 +1,11 @@
+{
+  "item.villasmod.jade": "Jade",
+  "item.villasmod.raw_jade": "Raw Jade",
+
+  "block.villasmod.jade_block": "Block of Jade",
+  "block.villasmod.deepslate_jade_ore": "Deepslate Jade Ore",
+
+  "creativetab.villasmod.mod_ingredients_tab": "Villa's Ingredients",
+  "creativetab.villasmod.mod_natural_blocks_tab": "Villa's Natural Blocks",
+  "creativetab.villasmod.mod_building_blocks_tab": "Villa's Building Blocks"
+}

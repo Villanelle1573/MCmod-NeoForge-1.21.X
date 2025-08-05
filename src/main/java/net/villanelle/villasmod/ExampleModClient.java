@@ -1,4 +1,4 @@
-package com.villanelle.villasmod;
+package net.villanelle.villasmod;
 
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;
