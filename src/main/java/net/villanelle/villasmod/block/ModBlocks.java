@@ -24,7 +24,7 @@ public class ModBlocks {
                     .sound(SoundType.AMETHYST)));
 
     public static final DeferredBlock<Block> DEEPSLATE_JADE_ORE = registerBlock("deepslate_jade_ore",
-            () -> new DropExperienceBlock(UniformInt.of(2, 4),
+            () -> new DropExperienceBlock(UniformInt.of(3, 6),
                     BlockBehaviour.Properties.of()
                             .strength(3f).requiresCorrectToolForDrops()
                     .sound(SoundType.DEEPSLATE)));

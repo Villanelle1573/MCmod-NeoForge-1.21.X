@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "jade",
+  "ingredients": [
+    {
+      "item": "villasmod:raw_jade"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "villasmod:jade"
+  }
+}

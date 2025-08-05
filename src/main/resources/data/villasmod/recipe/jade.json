@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "jade",
+  "ingredients": [
+    {
+      "item": "villasmod:jade_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "villasmod:jade"
+  }
+}
