@@ -9,8 +9,6 @@ import net.minecraft.world.item.ItemStack;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.villanelle.villasmod.VillasMod;
-import net.villanelle.villasmod.block.ModBlocks;
-import net.villanelle.villasmod.item.ModItems;
 
 import java.util.function.Supplier;
 

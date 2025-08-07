@@ -1,4 +1,4 @@
-package net.villanelle.villasmod.item;
+package net.villanelle.villasmod.init;
 
 import net.minecraft.world.item.Item;
 import net.neoforged.bus.api.IEventBus;

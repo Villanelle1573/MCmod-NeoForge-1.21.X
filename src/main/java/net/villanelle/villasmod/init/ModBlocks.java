@@ -1,4 +1,4 @@
-package net.villanelle.villasmod.block;
+package net.villanelle.villasmod.init;
 
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
@@ -11,7 +11,6 @@ import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.villanelle.villasmod.VillasMod;
-import net.villanelle.villasmod.item.ModItems;
 
 import java.util.function.Supplier;
 
